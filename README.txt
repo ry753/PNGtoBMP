@@ -16,7 +16,7 @@
 ・処理完了後、outputフォルダに変換画像が生成されています。
 
 【ライセンス情報】
-・zlibのライセンスが格納されています。（DOCUMENT\zlib_license.txt）
+・zlibのライセンスが格納されています。（PNG_TO_BMP\document\zlib_license.txt）
 
 【公開物説明】
 ・「PNG_TO_BMP」と「exe」があります。
