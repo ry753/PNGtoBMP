@@ -8,6 +8,7 @@
 ・windows11での動作のみを確認しています。
 
 【使い方】
+・配布物のexeファイルをそのまま使うことができます。
 ・親フォルダ内にexeファイル、inputフォルダ、outputフォルダを格納
 ・inputフォルダ、outputフォルダのフォルダ名は「input」「output」にしてください。
 ・inputフォルダ内に変換したいPNG画像を格納。
@@ -18,7 +19,7 @@
 ・zlibのライセンスが格納されています。（DOCUMENT\zlib_license.txt）
 
 【公開物説明】
-・「PNG_TO_BMP」と「PNG_TO_BMP.exe」があります。
+・「PNG_TO_BMP」と「exe」があります。
 ・「PNG_TO_BMP」はvisualStudioのプロジェクトフォルダです。
-・「PNG_TO_BMP.exe」はプログラムの実行のみ行うことを目的としたフォルダです。
+・「exe」はプログラムの実行のみ行うことを目的としたフォルダです。
 ・input及びoutputフォルダに同封されている「dummy.txt」は削除しても問題ありません。

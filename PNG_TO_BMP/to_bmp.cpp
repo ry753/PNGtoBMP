@@ -4,7 +4,7 @@ header, function
 #include"define_type.h"
 #include"to_bmp.h"
 #include"general.h"
-#include"zlib.h" // DOCUMENT\zlib_license.txt
+#include"zlib.h" // document\zlib_license.txt
 #include<stdio.h>
 #include<stdlib.h>
 
